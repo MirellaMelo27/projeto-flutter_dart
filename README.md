@@ -10,11 +10,11 @@ App Android para gerar provas com questões embaralhadas, imprimir com QR code/g
 
 | Pessoa | Responsabilidade |
 |--------|-------------------|
-| **Pessoa 1** | Turmas & Alunos — cadastro do professor, turmas, importação de lista de alunos |
+| **Pessoa 1(Karol)** | Turmas & Alunos — cadastro do professor, turmas, importação de lista de alunos |
 | **Pessoa 2** | Banco de Questões & Criação de Provas — cadastro de questões, montagem de provas, embaralhamento |
 | **Pessoa 3** | Geração da Prova & Gabarito (QR Code) — layout de impressão, folha de resposta, individualização por aluno |
 | **Pessoa 4** | Correção Automática — leitura de QR code, leitura da folha de respostas, cálculo de nota |
-| **Pessoa 5** | Resultados & Estatísticas — notas por turma, exportação Excel, estatística de alternativa mais marcada |
+| **Pessoa 5(Mirella)** | Resultados & Estatísticas — notas por turma, exportação Excel, estatística de alternativa mais marcada |
 
 ---
 
